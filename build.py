@@ -19,5 +19,4 @@ def index():
 
 
 if __name__ == '__main__':
-    print("Running on port: " + os.environ.get("PORT"))
     print("checked all the integrations")
